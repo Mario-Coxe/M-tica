@@ -1,0 +1,10 @@
+Olá, eu sou Mário Coxe, o criador do @Mática. Partilhe este jogo com amigos e vizinhos, vamos todos crescer juntos!
+Este é um jogo que está ser desenvolvido, este setup é apenas para testar, e para vocês terem uma ideia de como o programa funciona, nessa etapa inicial, estão a ser feitas melhores alterções, e mais implementações.
+Jogue o Mática, e se torne, o melhor aluno de matemática! Desfrute-o, e faça outros desfrutar.
+
+/*
+ALGUMAS TECLAS DE ATALHO:
+  clique na letra V para voltar.
+clique na letra C para continuar(cobra).
+*/
+@Mário Coxe
